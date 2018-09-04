@@ -12,7 +12,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="btn-floating btn-fb mx-1"
             >
-              <i className="fab fa-facebook"> </i>
+              <i className="fab fa-facebook-f" />
             </a>
           </li>
           <li className="list-inline-item">
@@ -42,7 +42,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="btn-floating btn-li mx-1"
             >
-              <i className="fab fa-linkedin"> </i>
+              <i className="fab fa-linkedin-in" />
             </a>
           </li>
           <li className="list-inline-item">
